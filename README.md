@@ -1,7 +1,7 @@
 # hello-world
 Este repositorio se crea a partir de un ejercicio practico para aprender como se utiliza github y como se trabaja con un sistema de control de versiones.
 
-<h1 align="center">Hola 👋, mi nombre es Santiago Ortiz Diaz</h1>F
+<h1 align="center">Hola 👋, mi nombre es Santiago Ortiz Diaz</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
 
